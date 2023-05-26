@@ -1,1 +1,1 @@
-# AIQ_ML
+Consider the analysis of the air quality index as a criterion ranging from 0 to 500. The higher the value of the AQI, the higher the level of air pollution and the greater the problem of air quality. For example, an AQI value of 50 or less represents good air quality, while an AQI value greater than 300 represents unsafe air quality.
